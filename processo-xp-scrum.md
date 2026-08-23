@@ -6,9 +6,11 @@ O quadro Kanban foi criado no GitHub Projects para representar o fluxo de trabal
 
 ### Estrutura utilizada
 
-* Backlog
-* In Progress
-* Done
+• Backlog
+• Ready
+• In Progress
+• In Review
+• Done
 
 ### User Stories / Tarefas
 
