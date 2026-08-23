@@ -20,7 +20,7 @@ O quadro Kanban foi criado no GitHub Projects para representar o fluxo de trabal
 
 ### Link do GitHub Projects
 
-Substituir pelo link do projeto criado no GitHub.
+(https://github.com/FabioBertolini/pratica-avaliada-es1)
 
 
 
